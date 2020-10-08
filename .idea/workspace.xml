@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="fd661a2c-7359-4289-ad3d-77d398670336" name="Default Changelist" comment="" />
+    <list default="true" id="fd661a2c-7359-4289-ad3d-77d398670336" name="Default Changelist" comment="up">
+      <change afterPath="$PROJECT_DIR$/assigment1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/200529171932-02-vietnam-corona-2270-4539-1590816094.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/200529180157-06-vietnam-coroan-2554-2037-1590816095.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/200529181106-08-vietnam-corona-6521-9572-1590816094.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,12 +29,19 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1iZpoXSjZkynkMHHhujtshX6gIF" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -31,6 +53,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -49,7 +72,18 @@
       <updated>1602125143733</updated>
       <workItem from="1602125144802" duration="4364000" />
       <workItem from="1602131442686" duration="69000" />
+      <workItem from="1602131516205" duration="1390000" />
+      <workItem from="1602161910436" duration="59000" />
+      <workItem from="1602161973596" duration="3747000" />
     </task>
+    <task id="LOCAL-00001" summary="up">
+      <created>1602131559272</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602131559272</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -58,10 +92,39 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.php" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="up" />
+    <option name="LAST_COMMIT_MESSAGE" value="up" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="104" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602161997380">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="104" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.729@0.23.1280.729" timestamp="1602161997380" />
     <state x="270" y="196" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602131090513">
       <screen x="0" y="23" width="1280" height="729" />
     </state>
     <state x="270" y="196" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.729@0.23.1280.729" timestamp="1602131090513" />
+    <state x="141" y="27" key="SettingsEditor" timestamp="1602132098105">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="141" y="27" key="SettingsEditor/0.23.1280.729@0.23.1280.729" timestamp="1602132098105" />
+    <state x="240" y="127" key="Vcs.Push.Dialog.v2" timestamp="1602132757499">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="240" y="127" key="Vcs.Push.Dialog.v2/0.23.1280.729@0.23.1280.729" timestamp="1602132757499" />
   </component>
 </project>
