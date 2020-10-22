@@ -13,7 +13,6 @@
     <list default="true" id="fd661a2c-7359-4289-ad3d-77d398670336" name="Default Changelist" comment="up">
       <change afterPath="$PROJECT_DIR$/CSS/app.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CSS/boxmodel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CSS/btap ss7.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CSS/demo bootstrap.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CSS/demo.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/CSS/lab s2.css" afterDir="false" />
@@ -26,7 +25,6 @@
       <change afterPath="$PROJECT_DIR$/Cv.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Lab s4.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/asiggment2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/btap ss7.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/demo bootstrap.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/demo.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/120661762_1284036191940980_8772477156545357989_n.jpg" afterDir="false" />
@@ -34,7 +32,6 @@
       <change afterPath="$PROJECT_DIR$/imgs/1_10387.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/Anh-sieu-dang-yeu-khi-meo-chup-anh-tu-suong_1.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/aec4e1459b0672582b17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/free-blurry-background-1636594.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/github-su-dung-github-aptech-buon-ma-thuot-300x241.png" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/modern-devices-desk-office_23-2148434897.jpg" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/imgs/pngtree-phone-icon-png-image_1757859.jpg" afterDir="false" />
@@ -48,7 +45,6 @@
       <change afterPath="$PROJECT_DIR$/session2.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/session4.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/ss7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +118,7 @@
       <workItem from="1602689081464" duration="601000" />
       <workItem from="1602690099309" duration="16352000" />
       <workItem from="1603158620261" duration="8016000" />
-      <workItem from="1603331312470" duration="8853000" />
+      <workItem from="1603331312470" duration="9135000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1602131559272</created>
@@ -138,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602167090735</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="up">
+      <created>1603341935883</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1603341935883</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,9 +188,10 @@
       <screen x="0" y="23" width="1280" height="729" />
     </state>
     <state x="141" y="27" key="SettingsEditor/0.23.1280.729@0.23.1280.729" timestamp="1602132098105" />
-    <state x="240" y="127" key="Vcs.Push.Dialog.v2" timestamp="1602167127468">
-      <screen x="0" y="23" width="1280" height="729" />
+    <state x="240" y="127" key="Vcs.Push.Dialog.v2" timestamp="1603341949375">
+      <screen x="0" y="23" width="1280" height="728" />
     </state>
+    <state x="240" y="127" key="Vcs.Push.Dialog.v2/0.23.1280.728@0.23.1280.728" timestamp="1603341949375" />
     <state x="240" y="127" key="Vcs.Push.Dialog.v2/0.23.1280.729@0.23.1280.729" timestamp="1602167127468" />
     <state x="305" y="76" width="670" height="676" key="search.everywhere.popup" timestamp="1603338136369">
       <screen x="0" y="23" width="1280" height="728" />
