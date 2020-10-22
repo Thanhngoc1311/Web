@@ -1,0 +1,94 @@
+*{
+
+}
+body{
+    background-color: plum;
+    font-size: 14px;
+    line-height: 1.25;
+    font-weight: normal;
+    font-family: 'Roboto', sans-serif;;
+}
+div{
+    width: 400px;
+    height: 450px;
+    background-color: #ffffff;
+    /*border: 1px solid #333333;*/
+    /*border-top: 1px solid #333333;*/
+    /*border-right: 1px solid #333333;*/
+    box-shadow: 0 0 5px #aaaaaa;
+    border-radius: 6px;
+    margin: 15px 20px 25px 30px;
+    /*  margin-top: 15px;
+        margin-right: 20px;
+        margin-bottom: 25px;
+        margin-left: 30px;
+    */
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    float: left; /* left right none */
+}
+img{
+    float: left;
+    width: 100%;
+    height: auto;
+}
+div img{
+    width: 300px;
+    float: none;
+}
+#sp{
+    transition: all 300ms;
+}
+#sp:hover{
+    background-color: aquamarine;
+    transform: rotate(360deg);
+}
+@keyframes block_animation{
+    from{
+        transform: rotate(0deg);
+    }
+    to{
+        transform: rotate(360deg);
+    }
+}
+.wave .span{
+    float: left;
+    width: 30px;
+    background-color: #232323;
+    margin-right: 3px;
+    height: 30px;
+    animation: wave;
+    animation-duration: 0.5s;
+    animation-iteration-count: 3;
+}
+.wave.w1{
+    animation-delay: 0s;
+}
+.wave .w2{
+    animation-delay: 0.2s;
+}
+.rec{
+    float: left;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    border-radius: 100%;
+    animation: traffic_light;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+@keyframes traffic_light {
+    0%{
+        background-color: red;
+    }
+    28.33%{
+        background-color: #232323;
+    }
+    95%{
+        background-color: green;
+    }
+    100%{
+        background-color: red;
+    }
+}

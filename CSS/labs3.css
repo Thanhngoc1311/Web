@@ -1,0 +1,50 @@
+body{
+    background-image: url("../imgs/modern-devices-desk-office_23-2148434897.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#sp{
+    font-family: 'Open Sans', sans-serif;
+    background-color: #aaaaaa;
+    text-align: center;
+    width:655px ;
+    height: 140px;
+    padding-top: 25px;
+    padding-left: 45px;
+}
+p{
+    font-size: 25px;
+    text-align: center;
+}
+div{
+    width: 700px;
+    height: 800px;
+    text-align: justify;
+    margin: auto;
+    background-color: white;
+}
+span{
+    font-size: 14px;
+    text-align: left;
+}
+img {
+    border-radius: 180px;
+    padding: 50px;
+}
+#sp1{
+    background-color: #f2f2f2;
+    transform: translate(-230px,-140px);
+    margin: auto;
+    width: 200px;
+    height: 775px;
+}
+#sp1 p{
+    font-size: 14px;
+    float: left;
+    line-height: 2px;
+}
+#tn{
+    border-bottom: 1px solid;
+    background-color: #aaaaaa;
+}

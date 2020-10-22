@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-image: url("../imgs/1_10387.jpg");
+    background-repeat: no-repeat;
+    background-size: 1280px 400px;
+    width: 100%;
+    background-color: #f2f2f2;
+    font-size: 14px;
+    line-height: 1.25;
+    font-weight: 400;
+    /* 100-thin 300-light 400-normal 500-medium 600-semi-bold 700-bold 800-extra-bold 900-black */
+    font-family: 'Roboto', sans-serif;
+    color: #232323;
+}
+header{
+    width: 1280px;
+    height: 50px;
+    padding-top: 15px;
+    color: white;
+    border-bottom: solid 1px #aaaaaa;
+}
+.a .logo{
+    margin-right: auto;
+}
+
+
