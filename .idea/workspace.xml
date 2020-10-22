@@ -11,10 +11,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fd661a2c-7359-4289-ad3d-77d398670336" name="Default Changelist" comment="up">
-      <change afterPath="$PROJECT_DIR$/assigment1.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/200529171932-02-vietnam-corona-2270-4539-1590816094.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/200529180157-06-vietnam-coroan-2554-2037-1590816095.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imgs/200529181106-08-vietnam-corona-6521-9572-1590816094.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/boxmodel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/btap ss7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/demo bootstrap.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/demo.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/lab s2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/lab s4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/lab s6.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/labs3.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/layout.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/ss4.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CSS/ss7.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cv.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab s4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/asiggment2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/btap ss7.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo bootstrap.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/120661762_1284036191940980_8772477156545357989_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/121194426_1288344008176865_5374670415552824349_n.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/1_10387.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/Anh-sieu-dang-yeu-khi-meo-chup-anh-tu-suong_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/aec4e1459b0672582b17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/free-blurry-background-1636594.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/github-su-dung-github-aptech-buon-ma-thuot-300x241.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/modern-devices-desk-office_23-2148434897.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/pngtree-phone-icon-png-image_1757859.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/quan jean nam.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/quan nam den.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/imgs/quan.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab s2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab s3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab s6.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layout.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/session4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ss7.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +58,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -46,6 +80,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/media" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -57,6 +92,9 @@
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/imgs/libs/bootstrap3.4.1" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/media" />
       <recent name="$PROJECT_DIR$/imgs" />
@@ -74,7 +112,17 @@
       <workItem from="1602131442686" duration="69000" />
       <workItem from="1602131516205" duration="1390000" />
       <workItem from="1602161910436" duration="59000" />
-      <workItem from="1602161973596" duration="3747000" />
+      <workItem from="1602161973596" duration="4642000" />
+      <workItem from="1602292950900" duration="476000" />
+      <workItem from="1602295645319" duration="26000" />
+      <workItem from="1602295674921" duration="7882000" />
+      <workItem from="1602518902603" duration="186000" />
+      <workItem from="1602552412220" duration="11623000" />
+      <workItem from="1602643105954" duration="1573000" />
+      <workItem from="1602689081464" duration="601000" />
+      <workItem from="1602690099309" duration="16352000" />
+      <workItem from="1603158620261" duration="8016000" />
+      <workItem from="1603331312470" duration="8853000" />
     </task>
     <task id="LOCAL-00001" summary="up">
       <created>1602131559272</created>
@@ -83,7 +131,14 @@
       <option name="project" value="LOCAL" />
       <updated>1602131559272</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="up">
+      <created>1602167090735</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602167090735</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +165,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="up" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="274" y="73" key="#Inspections" timestamp="1602305514997">
+      <screen x="0" y="23" width="1280" height="729" />
+    </state>
+    <state x="274" y="73" key="#Inspections/0.23.1280.729@0.23.1280.729" timestamp="1602305514997" />
+    <state x="422" y="163" key="#Web_Browsers" timestamp="1603331844426">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="422" y="163" key="#Web_Browsers/0.23.1280.728@0.23.1280.728" timestamp="1603331844426" />
     <state x="104" y="49" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602161997380">
       <screen x="0" y="23" width="1280" height="729" />
     </state>
@@ -122,9 +185,14 @@
       <screen x="0" y="23" width="1280" height="729" />
     </state>
     <state x="141" y="27" key="SettingsEditor/0.23.1280.729@0.23.1280.729" timestamp="1602132098105" />
-    <state x="240" y="127" key="Vcs.Push.Dialog.v2" timestamp="1602132757499">
+    <state x="240" y="127" key="Vcs.Push.Dialog.v2" timestamp="1602167127468">
       <screen x="0" y="23" width="1280" height="729" />
     </state>
-    <state x="240" y="127" key="Vcs.Push.Dialog.v2/0.23.1280.729@0.23.1280.729" timestamp="1602132757499" />
+    <state x="240" y="127" key="Vcs.Push.Dialog.v2/0.23.1280.729@0.23.1280.729" timestamp="1602167127468" />
+    <state x="305" y="76" width="670" height="676" key="search.everywhere.popup" timestamp="1603338136369">
+      <screen x="0" y="23" width="1280" height="728" />
+    </state>
+    <state x="305" y="76" width="670" height="676" key="search.everywhere.popup/0.23.1280.728@0.23.1280.728" timestamp="1603338136369" />
+    <state x="305" y="76" width="670" height="676" key="search.everywhere.popup/0.23.1280.729@0.23.1280.729" timestamp="1602731241845" />
   </component>
 </project>
